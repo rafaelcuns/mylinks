@@ -23,7 +23,7 @@ body {
     border: 1px solid var(--linha);
     border-radius: 10px;
     }
-    .instagram, .youtube, .twitch, .discord, .tiktok, .facebook {
+    .instagram, .youtube, .twitch, .discord, .tiktok, .facebook, .github {
         width: 4.5%;
         height: 4.5%;
         padding: 0.3%;
