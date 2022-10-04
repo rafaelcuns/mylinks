@@ -61,10 +61,10 @@ body {
         border: 1px solid var(--linha);
         border-radius: 10px;
     }
-    .instagram, .youtube, .twitch, .discord {
+    .instagram, .youtube, .twitch, .discord, .tiktok, .mal, .facebook, .twitter {
         width: clamp(4.5%, 30%, 30%);
         height: 4.5%;
-        padding: 0.3%;
+        padding: 1%;
     }
     .mal {
         border: 1px solid #BBB8A5;
